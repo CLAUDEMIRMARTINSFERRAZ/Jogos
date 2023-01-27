@@ -1,6 +1,5 @@
 # Hangman Game (Jogo da Forca)
 # Programação Orientada a Objetos
-
 # Import
 import random
 
@@ -146,7 +145,6 @@ def main():
 		print ('\nGame over! Você perdeu.')
 		print ('A palavra era ' + game.word)
 		print ('\nFoi bom jogar com você! Agora vá estudar!\n')
-
 # Executa o programa		
 if __name__ == "__main__":
 	main()
